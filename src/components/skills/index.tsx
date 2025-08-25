@@ -27,7 +27,7 @@ const Skills = () => {
                 </div>
                 <div className="bg-white p-8 rounded-xl text-center shadow-lg hover:-translate-y-2 transition-transform duration-300">
                     <div className="w-15 h-15 bg-warm-orange rounded-full mx-auto mb-4 flex items-center justify-center text-white text-2xl font-bold">
-                        📱
+                        API
                     </div>
                     <h3 className="mb-4 text-dark-blue font-semibold text-xl">API Integration</h3>
                     <p className="text-light-gray leading-relaxed">Building robust API integrations with RESTful, implementing secure authentication flows, and optimizing data fetching strategies for maximum performance and reliability.</p>

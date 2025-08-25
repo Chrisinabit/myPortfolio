@@ -25,7 +25,7 @@ const Project =()=> {
                 </div>
                 <div className="bg-gray-50 rounded-xl overflow-hidden hover:-translate-y-2 transition-transform duration-300">
                     <div className="h-48 bg-lighter-gray flex items-center justify-center text-light-gray text-lg">
-                        <img src="/images/movie-screenshot.png" alt="Weather Dashboard Screenshot"
+                        <img src="/images/movie-screenshot.png" alt="Movie Search App Screenshot"
                         style={{ objectFit: "cover", width: "100%", height: "100%" }} />
                     </div>
                     <div className="p-8">
@@ -45,7 +45,7 @@ const Project =()=> {
                 </div>
                 <div className="bg-gray-50 rounded-xl overflow-hidden hover:-translate-y-2 transition-transform duration-300 lg:col-span-2 xl:col-span-1">
                     <div className="h-48 bg-lighter-gray flex items-center justify-center text-light-gray text-lg">
-                         <img src="/images/menu-screenshot.png" alt="Weather Dashboard Screenshot" 
+                         <img src="/images/menu-screenshot.png" alt="Menu Screenshot" 
                          style={{ objectFit: "cover", width: "100%", height: "100%" }}/>
                     </div>
                     <div className="p-8">
